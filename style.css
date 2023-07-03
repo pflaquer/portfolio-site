@@ -159,7 +159,8 @@ header img {
   grid-template-areas:
     "one one one . ."
     ". . two two two"
-    "three three three . .";
+    "three three three . ."
+  ". . four four four";
 }
 
 .work-card {
