@@ -223,7 +223,7 @@ header img {
 
 .card-1 {
   grid-area: one;
-  background-image: url('https://imagizer.imageshack.com/img923/4294/eVd8N7.png');
+  background-image: url('https://imagizer.imageshack.com/img923/5668/s9i32Q.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -238,14 +238,6 @@ header img {
 .card-3 {
   grid-area: three;
   background-image: url('https://imagizer.imageshack.com/img923/8761/7RGxrT.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.card-4 {
-  grid-area: four;
-  background-image:
-    url('https://imagizer.imageshack.com/img923/5668/s9i32Q.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
