@@ -9,7 +9,7 @@ $(document).ready(function () {
 
 // Make Card One Clickable
 function projectOne() {
-    window.open("http://www.baddebtsbuyer.com");
+    window.open("https://qmassage.vercel.app");
 }
 
 // Make Card Two Clickable
