@@ -241,6 +241,14 @@ header img {
   background-size: cover;
 }
 
+.card-4 {
+  grid-area: four;
+  background-image:
+    url('https://imagizer.imageshack.com/img923/5668/s9i32Q.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .card-subhead {
   font-weight: 400;
   /* font-size: 14px; */
