@@ -222,21 +222,21 @@ header img {
 
 .card-1 {
   grid-area: one;
-  background-image: url('https://i.ibb.co/k3yx7tK/portf1.png');
+  background-image: url('https://imagizer.imageshack.com/img923/4294/eVd8N7.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .card-2 {
   grid-area: two;
-  background-image: url('https://i.ibb.co/1fGp6M9/portf2.png');
+  background-image: url('https://imagizer.imageshack.com/img924/9936/96KMbd.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .card-3 {
   grid-area: three;
-  background-image: url('https://i.ibb.co/58d3nqc/portf3.png');
+  background-image: url('https://imagizer.imageshack.com/img923/8761/7RGxrT.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -308,7 +308,7 @@ footer {
 
 .logo-img {
   border-radius: 20%;
-  width: 25%;
+  width: 50%;
   height: 50%;
   filter: drop-shadow(7px 5px 3px black);
 
