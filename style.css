@@ -334,6 +334,10 @@ mark {
 button {
 background-color: lightyellow;
 border-radius: 20px;
+color: black;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
   
 }
   
