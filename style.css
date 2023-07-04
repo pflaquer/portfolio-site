@@ -341,7 +341,7 @@ border-radius: 20px;
 .cta {
   color: black;
   background-color: white;
-  opacity: .8;
+  opacity: .95;
   width: 400px;
   border-radius:25px;
   filter: drop-shadow(5px 3px 2px black);
