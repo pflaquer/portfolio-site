@@ -334,3 +334,10 @@ background-color: lightyellow;
 border-radius: 20px;
 }
   
+
+.cta {
+  color: black;
+  background-color: white;
+  opacity: .8;
+  width: 400px;
+}
