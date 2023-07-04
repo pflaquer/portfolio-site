@@ -321,10 +321,10 @@ mark {
 }
 
 .para {
-  color:black;
-  background-color:lightyellow;
+  color:white;
+  background-color:black;
   opacity: .5;
-  width: 600px;
+  width: 400px;
   justify: center;
   border-radius:2px;
   filter: drop-shadow(3px 2px 1px black);
