@@ -326,7 +326,8 @@ mark {
   opacity: .5;
   width: 600px;
   justify: center;
-  border-radius: 5px;
+  border-radius:2px;
+  filter: drop-shadow(3px 2px 1px black);
 }
 
 
