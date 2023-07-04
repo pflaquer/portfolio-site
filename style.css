@@ -322,16 +322,18 @@ mark {
 
 .para {
   color:black;
-  background-color:white;
-  opacity: .7;
+  background-color:lightyellow;
+  opacity: .5;
   width: 300px;
   justify: center;
+  border-radius: 5px;
 }
 
 
 button {
 background-color: lightyellow;
 border-radius: 20px;
+  
 }
   
 
