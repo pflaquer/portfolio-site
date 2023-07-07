@@ -41,6 +41,7 @@ header {
   display: grid;
   min-height: 80px;
   grid-template-columns: repeat(2, 1fr);
+  position: sticky;
 }
 
 header a {
