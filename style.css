@@ -78,6 +78,7 @@ header img {
   display: grid;
   align-content: center;
   justify-content: end;
+  position: sticky;
 }
 
 /*  ---------------------- */
