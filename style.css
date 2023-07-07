@@ -20,6 +20,7 @@ body {
   line-height: 1.4;
   font-family: "Montserrat", sans-serif;
   -webkit-font-smoothing: antialiased;
+  scroll-behavior: smooth;
 }
 
 /*  ---------------------- */
@@ -145,6 +146,7 @@ header img {
 .work-section {
   margin-top: 6em;
   margin-bottom: 6em;
+  scroll-behavior: smooth;
 }
 
 .work-grid {
@@ -183,6 +185,7 @@ header img {
   transition-delay: 0s !important;
   box-shadow: 0px 0px 44px rgba(0, 0, 0, 0.16);
   cursor: pointer;
+  scroll-behavior: smooth;
 }
 
 /* .work-card p {
