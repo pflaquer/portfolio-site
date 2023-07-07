@@ -202,6 +202,8 @@ header img {
   background-color:lightyellow;
   text-color:white;
   filter: drop-shadow(10px 5px 3px black)
+  overflow-y: scroll;
+  scroll-behavior: smooth;
   
 }
 
