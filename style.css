@@ -175,7 +175,7 @@ header img {
   text-align: left;
   box-shadow: var(--shadow);
   align-content: end;
-
+ scroll-behavior: smooth;
   transition: var(--transition);
   -webkit-transition: var(--transition);
 }
@@ -202,7 +202,7 @@ header img {
   background-color:lightyellow;
   text-color:white;
   filter: drop-shadow(10px 5px 3px black)
-  
+   scroll-behavior: smooth;
 }
 
 /*  ---------------------- */
