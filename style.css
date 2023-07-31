@@ -255,6 +255,13 @@ header img {
   background-size: cover;
 }
 
+.card-4 {
+  grid-area: four;
+  background-image: url('auto-recon-collision-center_lynnwood-wa.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .card-subhead {
   font-weight: 400;
   /* font-size: 14px; */
